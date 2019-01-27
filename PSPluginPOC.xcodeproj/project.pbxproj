@@ -9,6 +9,45 @@
 /* Begin PBXFileReference section */
 		DE41868021FD8766001F71F1 /* PSPluginPOC.bundle */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = PSPluginPOC.bundle; sourceTree = BUILT_PRODUCTS_DIR; };
 		DE41868321FD8766001F71F1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DE4186A121FD8A32001F71F1 /* ASPragma.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASPragma.h; sourceTree = "<group>"; };
+		DE4186A221FD8A32001F71F1 /* PIPatternsSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIPatternsSuite.h; sourceTree = "<group>"; };
+		DE4186A321FD8A33001F71F1 /* ASTypes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASTypes.h; sourceTree = "<group>"; };
+		DE4186A421FD8A33001F71F1 /* PIAbout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIAbout.h; sourceTree = "<group>"; };
+		DE4186A521FD8A33001F71F1 /* PIPicker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIPicker.h; sourceTree = "<group>"; };
+		DE4186A621FD8A33001F71F1 /* PIChannelPortOperations.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIChannelPortOperations.h; sourceTree = "<group>"; };
+		DE4186A721FD8A33001F71F1 /* PIProgressSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIProgressSuite.h; sourceTree = "<group>"; };
+		DE4186A821FD8A33001F71F1 /* PITerminology.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PITerminology.h; sourceTree = "<group>"; };
+		DE4186A921FD8A33001F71F1 /* PIMeasurement.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIMeasurement.h; sourceTree = "<group>"; };
+		DE4186AA21FD8A33001F71F1 /* PITypes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PITypes.h; sourceTree = "<group>"; };
+		DE4186AB21FD8A33001F71F1 /* PISelection.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PISelection.h; sourceTree = "<group>"; };
+		DE4186AC21FD8A33001F71F1 /* PIResDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIResDefines.h; sourceTree = "<group>"; };
+		DE4186AD21FD8A33001F71F1 /* PIFeatureSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIFeatureSuite.h; sourceTree = "<group>"; };
+		DE4186AE21FD8A33001F71F1 /* ASConfig.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASConfig.h; sourceTree = "<group>"; };
+		DE4186AF21FD8A33001F71F1 /* PIFilter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIFilter.h; sourceTree = "<group>"; };
+		DE4186B021FD8A34001F71F1 /* PIUIHooksSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIUIHooksSuite.h; sourceTree = "<group>"; };
+		DE4186B121FD8A34001F71F1 /* PIGetFileListSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIGetFileListSuite.h; sourceTree = "<group>"; };
+		DE4186B221FD8A34001F71F1 /* PIActionsPlugin.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIActionsPlugin.h; sourceTree = "<group>"; };
+		DE4186B321FD8A34001F71F1 /* JSScriptingSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = JSScriptingSuite.h; sourceTree = "<group>"; };
+		DE4186B421FD8A34001F71F1 /* PIColorSpaceSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIColorSpaceSuite.h; sourceTree = "<group>"; };
+		DE4186B521FD8A34001F71F1 /* ASZStringSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASZStringSuite.h; sourceTree = "<group>"; };
+		DE4186B621FD8A34001F71F1 /* PIActions.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIActions.h; sourceTree = "<group>"; };
+		DE4186B721FD8A34001F71F1 /* PSGraphicTypes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PSGraphicTypes.h; sourceTree = "<group>"; };
+		DE4186B821FD8A34001F71F1 /* PIBufferSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIBufferSuite.h; sourceTree = "<group>"; };
+		DE4186B921FD8A35001F71F1 /* PIHandleSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIHandleSuite.h; sourceTree = "<group>"; };
+		DE4186BA21FD8A35001F71F1 /* PIErrorSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIErrorSuite.h; sourceTree = "<group>"; };
+		DE4186BB21FD8A35001F71F1 /* PIFormat.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIFormat.h; sourceTree = "<group>"; };
+		DE4186BC21FD8A35001F71F1 /* PIProperties.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIProperties.h; sourceTree = "<group>"; };
+		DE4186BD21FD8A35001F71F1 /* PIGeneral.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIGeneral.h; sourceTree = "<group>"; };
+		DE4186BE21FD8A35001F71F1 /* PIAliasSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIAliasSuite.h; sourceTree = "<group>"; };
+		DE4186BF21FD8A35001F71F1 /* PSIntTypes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PSIntTypes.h; sourceTree = "<group>"; };
+		DE4186C021FD8A35001F71F1 /* PI3D.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PI3D.h; sourceTree = "<group>"; };
+		DE4186C121FD8A36001F71F1 /* PIGetPathSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIGetPathSuite.h; sourceTree = "<group>"; };
+		DE4186C221FD8A36001F71F1 /* PIStringTerminology.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIStringTerminology.h; sourceTree = "<group>"; };
+		DE4186C321FD8A36001F71F1 /* ASPreInclude.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ASPreInclude.h; sourceTree = "<group>"; };
+		DE4186C421FD8A36001F71F1 /* PIExport.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIExport.h; sourceTree = "<group>"; };
+		DE4186C521FD8A36001F71F1 /* PIAcquire.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIAcquire.h; sourceTree = "<group>"; };
+		DE4186C621FD8A36001F71F1 /* PIChannelPortsSuite.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PIChannelPortsSuite.h; sourceTree = "<group>"; };
+		DE4186C721FD8A36001F71F1 /* PSErrorDefines.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PSErrorDefines.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -41,9 +80,56 @@
 		DE41868221FD8766001F71F1 /* PSPluginPOC */ = {
 			isa = PBXGroup;
 			children = (
+				DE41869F21FD8870001F71F1 /* sdk */,
 				DE41868321FD8766001F71F1 /* Info.plist */,
 			);
 			path = PSPluginPOC;
+			sourceTree = "<group>";
+		};
+		DE41869F21FD8870001F71F1 /* sdk */ = {
+			isa = PBXGroup;
+			children = (
+				DE4186AE21FD8A33001F71F1 /* ASConfig.h */,
+				DE4186A121FD8A32001F71F1 /* ASPragma.h */,
+				DE4186C321FD8A36001F71F1 /* ASPreInclude.h */,
+				DE4186A321FD8A33001F71F1 /* ASTypes.h */,
+				DE4186B521FD8A34001F71F1 /* ASZStringSuite.h */,
+				DE4186B321FD8A34001F71F1 /* JSScriptingSuite.h */,
+				DE4186C021FD8A35001F71F1 /* PI3D.h */,
+				DE4186A421FD8A33001F71F1 /* PIAbout.h */,
+				DE4186C521FD8A36001F71F1 /* PIAcquire.h */,
+				DE4186B621FD8A34001F71F1 /* PIActions.h */,
+				DE4186B221FD8A34001F71F1 /* PIActionsPlugin.h */,
+				DE4186BE21FD8A35001F71F1 /* PIAliasSuite.h */,
+				DE4186B821FD8A34001F71F1 /* PIBufferSuite.h */,
+				DE4186A621FD8A33001F71F1 /* PIChannelPortOperations.h */,
+				DE4186C621FD8A36001F71F1 /* PIChannelPortsSuite.h */,
+				DE4186B421FD8A34001F71F1 /* PIColorSpaceSuite.h */,
+				DE4186BA21FD8A35001F71F1 /* PIErrorSuite.h */,
+				DE4186C421FD8A36001F71F1 /* PIExport.h */,
+				DE4186AD21FD8A33001F71F1 /* PIFeatureSuite.h */,
+				DE4186AF21FD8A33001F71F1 /* PIFilter.h */,
+				DE4186BB21FD8A35001F71F1 /* PIFormat.h */,
+				DE4186BD21FD8A35001F71F1 /* PIGeneral.h */,
+				DE4186B121FD8A34001F71F1 /* PIGetFileListSuite.h */,
+				DE4186C121FD8A36001F71F1 /* PIGetPathSuite.h */,
+				DE4186B921FD8A35001F71F1 /* PIHandleSuite.h */,
+				DE4186A921FD8A33001F71F1 /* PIMeasurement.h */,
+				DE4186A221FD8A32001F71F1 /* PIPatternsSuite.h */,
+				DE4186A521FD8A33001F71F1 /* PIPicker.h */,
+				DE4186A721FD8A33001F71F1 /* PIProgressSuite.h */,
+				DE4186BC21FD8A35001F71F1 /* PIProperties.h */,
+				DE4186AC21FD8A33001F71F1 /* PIResDefines.h */,
+				DE4186AB21FD8A33001F71F1 /* PISelection.h */,
+				DE4186C221FD8A36001F71F1 /* PIStringTerminology.h */,
+				DE4186A821FD8A33001F71F1 /* PITerminology.h */,
+				DE4186AA21FD8A33001F71F1 /* PITypes.h */,
+				DE4186B021FD8A34001F71F1 /* PIUIHooksSuite.h */,
+				DE4186C721FD8A36001F71F1 /* PSErrorDefines.h */,
+				DE4186B721FD8A34001F71F1 /* PSGraphicTypes.h */,
+				DE4186BF21FD8A35001F71F1 /* PSIntTypes.h */,
+			);
+			path = sdk;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
